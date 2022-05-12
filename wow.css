@@ -1,0 +1,151 @@
+#NicolaTesla {
+    border-radius: 50%;
+    border: solid 1px white;
+    
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+    
+    }
+    #Tesla {
+        width: 10vw;
+        height: 10vw;
+    
+    }
+    
+    .space {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+    }
+    .Elon{
+        width: 100%;
+        height: 100%;
+    }
+    #chicken{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    
+        border-bottom:solid 0.1vw black;
+        border-top: solid 0.1vw black;
+    
+        margin-top: 0.5vw;
+        margin-bottom: 0.5vw;
+    }
+    
+    .chikk{
+        text-align: center;
+    }
+    
+    .greatman_grid{
+        display:grid;
+        grid-template-columns: 45px 100px 1fr;
+    }
+    .greatman{
+        width: 50px;
+        width: 50px;
+    
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .walt{
+        border-radius: 50%;
+        border: solid 0.1vw white;
+    
+        width: 100%;
+        height: 50px;
+        object-fit: cover;
+    }
+    .greatman_wow{
+        text-align: center;
+    }
+    .Tesla_grid{
+        display: grid;
+        grid-template-columns: 200px 1fr;
+    }
+    .Tesla_make{
+        display: grid;
+        grid-template-rows: 1fr 1fr;
+    }
+    .Tesla_make>button{
+     width: 80%;
+     height: 50%;
+     
+     font-size: 0.9vw;
+     background-color: white;
+     border-radius: 0.3vw;
+     border: solid 0.1vw gray;
+    }
+    .half_bottle{
+        margin-top: 3vw;
+    }
+    .instagramproject{
+        display: grid;
+        grid-template-columns: 140px 7fr 4fr;
+        border-bottom: 0.1vw solid gray;
+    
+    
+    }
+    .half_bottle p{
+        font-size: 10vw;
+    }
+    .instagramproject input{
+        height: 60%;
+        width: 90%;
+    
+        margin-top: auto;
+        margin-bottom: auto;
+        margin-left: auto;
+        margin-right: auto;
+    
+        background-color: white;
+    
+        font-size: 0.9vw;
+        font-weight: 1vw;
+    
+        border: solid 0.1vw gray;
+    
+    }
+    .instagramproject img{
+        margin-right: auto;
+        margin-left: auto;
+    
+        height: 100%;
+        object-fit: contain;
+    }
+    #Tesla{
+    margin-top: 2vw;
+    }
+    
+    .emoticon i {
+        font-size: 2vw;
+        text-align: center;
+       
+        margin-top: 1vw;
+        margin-bottom: 1vw;
+        
+    
+    }
+    i{
+        color: gray;
+    }
+    
+    .half_bottle{
+        font-size: 3vw;
+    }
+    .emoticon_grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    
+    text-align: center;
+    font-size: 2vw;
+    
+    height: 3vw;
+    }
+    .emoticon_wow{
+        border-bottom: solid 0.3vw gray;
+    }
+    .instagramproject{
+        min-height: 5vw;
+    }
